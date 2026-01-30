@@ -18,7 +18,7 @@ This project implements a hardware-based motion control system for a 3-4 DOF ser
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  Application Layer (robotic_arm_control.ino)       │
+│  Application Layer (robotic_arm_control.ino)        │
 │  - Pose sequencing (FSM)                            │
 │  - Serial command parser                            │
 │  - Safety monitoring                                │
